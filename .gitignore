@@ -1,0 +1,16 @@
+*.aep
+*.aepx
+*.prproj
+*.mp4
+*.mov
+*.wav
+*.mxf
+*.png
+*.jpg
+*.jpeg
+*.log
+*.bak
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
